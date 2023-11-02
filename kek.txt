@@ -1,1 +1,5 @@
-
+malzemeler
+1.un
+2.yumurta
+3.süt
+4.su
