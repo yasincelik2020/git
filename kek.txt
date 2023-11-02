@@ -3,3 +3,5 @@ malzemeler
 2.yumurta
 3.süt
 4.su
+hazirlanisi
+1. un su yumurta karistir.
